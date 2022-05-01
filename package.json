@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-plugin-stale",
+  "version": "1.0.2",
+  "description": "GatsbyJS plugin to disable some pages",
+  "main": "index.js",
+  "author": "jmau111",
+  "license": "MIT",
+  "homepage": "https://github.com/jmau111/gatsby-plugin-stale#readme",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jmau111/gatsby-plugin-stale.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jmau111/gatsby-plugin-stale/issues"
+  },
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin"
+  ],
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
