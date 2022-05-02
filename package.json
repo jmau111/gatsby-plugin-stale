@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-stale",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "GatsbyJS plugin to disable some pages",
   "main": "index.js",
   "author": "jmau111",
@@ -16,8 +16,5 @@
   "keywords": [
     "gatsby",
     "gatsby-plugin"
-  ],
-  "dependencies": {
-    "react": "^18.1.0"
-  }
+  ]
 }
